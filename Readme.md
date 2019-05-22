@@ -2,7 +2,7 @@
 
 <img alt="PyPI - License" src="https://img.shields.io/pypi/l/python-starter-pack.svg"> <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/python-starter-pack.svg"> <img alt="PyPI" src="https://img.shields.io/pypi/v/python-starter-pack.svg"> <img alt="Travis (.org)" src="https://img.shields.io/travis/apiad/python-starter-pack/master.svg"> <img alt="Codecov" src="https://img.shields.io/codecov/c/github/apiad/python-starter-pack.svg">
 
-> Quickly setup a Python 3 library complete with continuous integration, code coverage and automatic deployment to PyPi in 5 minutes.
+> Quickly setup a Python 3 library complete with continuous integration, code coverage and automatic deployment to PyPi in 5... err... 35 minutes.
 
 ## What's this about?
 
